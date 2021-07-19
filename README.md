@@ -1,2 +1,1 @@
-# workshop-build-web-application
-workshop- construindo uma aplicacao web do zero
+# workshop- construindo uma aplicacao web do inicio
